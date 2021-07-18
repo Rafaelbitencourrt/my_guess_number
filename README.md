@@ -1,4 +1,4 @@
-# my_guess_number
+# My guess number 🎮
 
 ## O propósito desse jogo é o usuário tentar acertar um número entre 1 a 20.
 
@@ -6,7 +6,7 @@
 
 
 ## Tecnologias aplicadas:
- - CSS (Media queries para responsividade).
+ - CSS 
  - HTML5
  - Javascript
 
